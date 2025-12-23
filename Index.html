@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Inclusão Digital na Terceira Idade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            background-color: #ffffff;
+            margin: 30px 0;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+        }
+
+        header, footer {
+            background-color: #4682b4;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        nav a {
+            margin: 0 15px;
+            color: #4682b4;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        main {
+            text-align: justify;
+        }
+
+        main h2 {
+            color: #2e5c9a;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        img {
+            display: block;
+            margin: 25px auto;
+            max-width: 100%;
+            border-radius: 8px;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Inclusão Digital na Terceira Idade</h1>
+        <p>Meu caminho para ter mais liberdade e cidadania em Seabra - BA</p>
+    </header>
+
+    <nav>
+        <a href="site1.html">Início</a> |
+         <a href="site2.html">Ir para o Relato</a>
+    </nav>
+
+    <main>
+        <h2>O que é inclusão digital?</h2>
+        <p>
+            A inclusão digital é o processo de permitir que todas as pessoas tenham acesso às tecnologias da informação e comunicação — como celulares, computadores, internet e aplicativos.
+            Ela é essencial para promover a igualdade social e garantir que todos participem da sociedade digital.
+        </p>
+
+        <h2>Por que é importante para a terceira idade?</h2>
+        <p>
+            A inclusão digital na terceira idade proporciona mais liberdade, dignidade e bem-estar. Com acesso à tecnologia, os idosos podem:
+        </p>
+        <ul>
+            <li>Falar com filhos e netos por mensagens e vídeo chamadas</li>
+            <li>Utilizar aplicativos de bancos, saúde e transporte</li>
+            <li>Participar de cursos online, grupos e eventos culturais</li>
+            <li>Exercitar a mente com jogos e leitura digital</li>
+            <li>Evitar o isolamento e manter-se socialmente ativo</li>
+        </ul>
+
+        <h2>Iniciativas locais em Seabra - BA</h2>
+        <p>
+            Em Seabra, escolas, igrejas e centros de convivência estão oferecendo cursos de alfabetização digital para idosos.
+            Com o apoio de jovens voluntários, muitos já estão usando o WhatsApp, aprendendo sobre segurança digital e até fazendo chamadas de vídeo com familiares distantes.
+        </p>
+
+        <img src="idosochapada.jpg" alt="Idosos usando computador na Chapada Diamantina" width="600">
+
+        <h2>Dicas para começar</h2>
+        <ul>
+            <li>Procure cursos gratuitos na sua cidade (postos de saúde, escolas, ONGs)</li>
+            <li>Peça ajuda a filhos ou netos para usar o celular</li>
+            <li>Comece com aplicativos simples: WhatsApp, YouTube, PIX e Calculadora</li>
+            <li>Pratique todos os dias um pouco: a prática traz confiança!</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 | Inclusão Digital em Seabra - BA - Ifba Mundo Novo</p>
+    </footer>
+</div>
+
+</body>
+</html>
